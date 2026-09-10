@@ -1,0 +1,122 @@
+{
+    "appetizers": [
+        {
+            "id": 1,
+            "name": "Crab Legs",
+            "description": "Fresh crab on white plate, claw crab cooking food seafood plate with lemon lime, boiled or steamed crab red in the restaurant.",
+            "price": "9.99",
+            "image": "assets/images/appt-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Buffalo Chicken Brie Bites",
+            "description": "Buffalo Chicken Brie Bites, the tangy kick of Buffalo sauce pairs wonderfully with the mellow, flavor of gooey brie cheese.",
+            "price": "12.99",
+            "image": "assets/images/appt-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Hummus, Feta and Broccoli Fritters",
+            "description": "Hummus, Feta + Broccoli Fritters — Light, cheesy, gluten-free broccoli fritters loaded with tender broccoli, creamy hummus and salty feta, served with parsley, lemon and a tangy tzatziki dip.",
+            "price": "7.99",
+            "image": "assets/images/appt-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Baked Jalapeño Poppers",
+            "description": "These jalapeño poppers are stuffed with a fresh, herbed cream cheese mixture and topped with just enough cheddar cheese to turn golden.",
+            "price": "9.99",
+            "image": "assets/images/appt-4.webp"
+        }
+    ],
+    "main": [
+        {
+            "id": 1,
+            "name": "Herb-Crusted Roast Chicken",
+            "description": "Free-range chicken breast roasted with rosemary, thyme, and garlic, served over creamy Yukon gold mashed potatoes with a red wine pan jus.",
+            "price": "23.99",
+            "image": "assets/images/main-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Pan-Seared Salmon",
+            "description": "Atlantic salmon fillet seared to a golden crust, finished with a lemon-dill butter sauce, served alongside grilled asparagus and wild rice pilaf.",
+            "price": "27.99",
+            "image": "assets/images/main-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Braised Short Rib",
+            "description": "Slow-braised beef short rib in a red wine reduction, served over creamy polenta with roasted root vegetables and crispy shallots.",
+            "price": "31.99",
+            "image": "assets/images/main-3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Wild Mushroom Risotto",
+            "description": "Arborio rice slow-cooked with a medley of wild mushrooms, white wine, and Parmesan, finished with truffle oil and fresh chives.",
+            "price": "21.99",
+            "image": "assets/images/main-4.webp"
+        }
+    ],
+    "drinks": [
+        {
+            "id": 1,
+            "name": "Elderflower Spritz",
+            "description": "Prosecco, elderflower liqueur, and soda water over ice, garnished with fresh mint and a lemon twist.",
+            "price": "11.99",
+            "image": "assets/images/drink-1.webp"
+        },
+        {
+            "id": 2,
+            "name": "House Red Sangria",
+            "description": "A blend of red wine, brandy, orange juice, and fresh seasonal fruit, served chilled over ice.",
+            "price": "10.99",
+            "image": "assets/images/drink-2.webp"
+        },
+        {
+            "id": 3,
+            "name": "Fresh Strawberry Basil Lemonade",
+            "description": "House-made lemonade muddled with fresh strawberries and basil, served over ice.",
+            "price": "6.99",
+            "image": "assets/images/drink-3.webp"
+        },
+        {
+            "id": 4,
+            "name": "Iced Golden Turmeric Latte",
+            "description": "Espresso and steamed oat milk blended with turmeric, ginger, and a touch of honey.",
+            "price": "5.99",
+            "image": "assets/images/drink-4.webp"
+        }
+    ],
+    "desserts": [
+        {
+            "id": 1,
+            "name": "Classic Tiramisu",
+            "description": "Espresso-soaked ladyfingers layered with mascarpone cream and dusted with cocoa powder.",
+            "price": "9.99",
+            "image": "assets/images/dessert-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Molten Chocolate Lava Cake",
+            "description": "Warm chocolate cake with a gooey molten center, served with vanilla bean ice cream and fresh berries.",
+            "price": "11.99",
+            "image": "assets/images/dessert-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Crème Brûlée",
+            "description": "Silky vanilla bean custard topped with a torched caramelized sugar crust.",
+            "price": "10.99",
+            "image": "assets/images/dessert-3.webp"
+        },
+        {
+            "id": 4,
+            "name": "Affogato",
+            "description": "A scoop of vanilla gelato drowned in a shot of hot espresso, finished with chocolate shavings.",
+            "price": "7.99",
+            "image": "assets/images/dessert-4.webp"
+        }
+    ]
+}
